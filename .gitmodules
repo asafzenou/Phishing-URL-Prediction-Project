@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/asafzenou/Phishing-URL-Prediction-BackEnd
+[submodule "extension"]
+	path = extension
+	url = https://github.com/asafzenou/Phishing-URL-Prediction-extension
